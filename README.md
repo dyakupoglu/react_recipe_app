@@ -5,9 +5,9 @@
 You can list many recipes with this project. I used Edamam recipe API to show recipes. I developed this project to gain experience with react.js.
 
 ### Project Images
-![react_recipe_app](./Project_Images/react_recipe_app_1.PNG)
+![react_recipe_app](./Project_Images/react_recipe_app_1.png)
 
-![react_recipe_app](./Project_Images/react_recipe_app_2.PNG)
+![react_recipe_app](./Project_Images/react_recipe_app_2.png)
 
 ### Built With
 
